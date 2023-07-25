@@ -3,7 +3,7 @@
 
 **Data Science** is a *multidisciplinary field* that combines statistics, computer science, and domain knowledge.
 
-![](https://github.com/Tuwaiq-Data-Science-Bootcamp-V4/Markdown-Lab1/blob/baa0fcd59a13871b492ff2ba658d0080bb474e7e/DS.png)
+<img src="https://github.com/Tuwaiq-Data-Science-Bootcamp-V4/Markdown-Lab1/blob/baa0fcd59a13871b492ff2ba658d0080bb474e7e/DS.png" width="400" height="400" />
 
 ## Data Types:
 - Structured Data
@@ -20,4 +20,4 @@
 print ("DS Bootcamp")
 ```
 
-[Read More]([https://www.google.com](https://en.wikipedia.org/wiki/Data_science”)https://en.wikipedia.org/wiki/Data_science”)
+[Read more](https://en.wikipedia.org/wiki/Data_science”)
