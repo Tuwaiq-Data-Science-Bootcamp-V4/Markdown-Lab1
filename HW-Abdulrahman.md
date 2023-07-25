@@ -4,7 +4,7 @@
 
 <img src="DS.png" width=400 height=400 alt="DS.png">
 
-### Data Types
+### Data Types:
 - Structured Data
 - Semi-Structured Data
 - Unstructured Data
