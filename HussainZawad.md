@@ -16,6 +16,8 @@
 |e.g.: Tables | e.g. XML | e.g Photos |
 
 
-` Print("DS Bootcamp") `
+```python
+Print(" DS Bootcamp")
+```
 
 [Read More](https://en.wikipedia.org/wiki/Data_science)
