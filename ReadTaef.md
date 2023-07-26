@@ -1,10 +1,10 @@
-#Dtat Science 
+# Dtat Science 
 ## What is Data Science?
 **Dtat Science** is *multidisciplinary field* that combines statistics, computer science, and domain knowlwdge.
 
 
 
-<img src="DS.png" alt="Image" style="width: 400px; height: 400px;">
+<img src="DS.png" alt="Image" width="400px" height= "400px">
 
 
 ### Dtat Types:
