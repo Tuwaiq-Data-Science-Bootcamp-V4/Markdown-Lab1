@@ -7,7 +7,7 @@
 ### Data types
 - Structured
 - Semi-Structured
-- Unstructured
+- Unstructured 
   
 | Structured | Semi-Structured | Unstructured |
 | ----------- | ----------- | ----------- |
